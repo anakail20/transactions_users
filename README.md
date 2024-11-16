@@ -1,4 +1,4 @@
-# SQL Query: Transactions in the Last 7 Days
+# Task 1 SQL Query: Transactions in the Last 7 Days
 
 This SQL script computes the number of transactions a user made in the 7 days preceding each transaction, without including the current transaction itself.
 
