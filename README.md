@@ -43,4 +43,4 @@ This Python script processes two CSV files (`transactions.csv` and `users.csv`) 
 
 2. **Run the Script**:
    ```bash
-   python compute_query.py
+   python task_2.py
